@@ -20,8 +20,7 @@ return [
         'name' => 'Seo Description'
     ],
     'icon' => [
-'       name' => 'ICON'
-],
-
+        'name' => 'Icon'
+    ],
     'please_wait' => 'Please wait.Deleting Sub Categories',
 ];
